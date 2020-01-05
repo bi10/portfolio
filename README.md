@@ -1,2 +1,2 @@
 # portfolio
-Online personal portfolio hosted by Github pages
+Online personal portfolio hosted by Github Pages
